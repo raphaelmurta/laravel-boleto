@@ -1,11 +1,11 @@
 {
-    "name": "eduardokum/laravel-boleto",
+    "name": "raphaelmurta/laravel-boleto",
     "description": "Biblioteca com boletos para o laravel",
     "keywords": [
-        "eduardokum",
+        "raphaelmurta",
         "laravel-boleto"
     ],
-    "homepage": "https://github.com/eduardokum/laravel-boleto",
+    "homepage": "https://github.com/raphaelmurta/laravel-boleto",
     "license": "MIT",
     "authors": [
         {
