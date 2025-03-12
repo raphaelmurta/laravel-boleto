@@ -28,6 +28,7 @@ interface Boleto
     const COD_BANCO_RENDIMENTO = '633';
     const COD_BANCO_PINE = '643';
     const COD_BANCO_OURINVEST = '712';
+    const COD_BANCO_SICOOB = '756';
     const STATUS_REGISTRO = 1;
     const STATUS_ALTERACAO = 2;
     const STATUS_BAIXA = 3;
